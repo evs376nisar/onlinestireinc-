@@ -1,0 +1,3 @@
+nisar Tech2
+apple	300	mango	150	E-Tech2394723894
+khera	100	banana	40	nisar234234
